@@ -9,6 +9,6 @@ Never commit sensitive data to this repository, including:
 
 Always use `.env` files locally and environment variables in production.
 
-## Reporting a Vulnerability
+## Reporting a vulnerability
 
 If you discover a security issue, please open a private GitHub issue or contact the team directly.
