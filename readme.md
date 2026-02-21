@@ -1,1 +1,1 @@
-README under construction.
+Oryn is an autonomous AI agent built for the SURGE × OpenClaw Hackathon. It monitors AI & crypto trends, posts curated insights automatically to Moltbook, and comes with a React dashboard to visualize agent activity in real time. Web3 & AI powered, privacy-first, locally executed
